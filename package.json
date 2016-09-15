@@ -2,6 +2,18 @@
   "name": "express-request-limit",
   "version": "1.0.0",
   "description": "Express middleware to limit the request rate to specific routes, based on client IP address.",
+  "homepage": "https://github.com/n1try/express-request-limit",
+  "author": {
+    "name": "Ferdinand Mütsch",
+    "url": "https://ferdinand-muetsch.de"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n1try/express-request-limit"
+  },
+  "bugs": {
+    "url": "https://github.com/n1try/express-request-limit/issues"
+  },
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,7 +33,6 @@
     "block",
     "ip-block"
   ],
-  "author": "Ferdinand Mütsch <mail@ferdinand-muetsch.de>",
   "license": "MIT",
   "dependencies": {
     "express": "^4.14.0"

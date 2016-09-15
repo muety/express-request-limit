@@ -1,0 +1,29 @@
+{
+  "name": "express-request-limit",
+  "version": "1.0.0",
+  "description": "Express middleware to limit the request rate to specific routes, based on client IP address.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "security",
+    "limit",
+    "ratelimit",
+    "rate-limit",
+    "requestlimit",
+    "request-limit",
+    "brute-force",
+    "ip",
+    "timeout",
+    "block",
+    "ip-block"
+  ],
+  "author": "Ferdinand Mütsch <mail@ferdinand-muetsch.de>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

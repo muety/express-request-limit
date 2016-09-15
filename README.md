@@ -3,6 +3,8 @@ Simple, in-memory rate-limiting middleware for Express. When injected to Express
 
 Also works, if your application runs behind a proxy. If present, the `X-Real-Ip` or `X-Forwarded-For` header will be used to determine client ip address.
 
+[![NPM](https://nodei.co/npm/express-request-limit.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/express-request-limit/)
+
 ## Installation
 `$ npm install --save express-request-limit`
 

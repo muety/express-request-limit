@@ -1,6 +1,6 @@
 {
   "name": "express-request-limit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Express middleware to limit the request rate to specific routes, based on client IP address.",
   "homepage": "https://github.com/n1try/express-request-limit",
   "author": {
@@ -35,6 +35,5 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "express": "^4.14.0"
   }
 }
